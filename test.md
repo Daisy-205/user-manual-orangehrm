@@ -57,14 +57,14 @@ Aplikasi OrangeHRM terdapat modul/fitur login untuk masuk kedalam sistem atau ap
 </p>
 
 <p align="center">
-  <img src="assets/images/loginGagal.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/loginGagal.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 2. Halaman Gagal Login
 </p>
 
 Pada halaman login terdapat teks “Forgot your password” digunakan untuk melakukan reset password akun pengguna. Pada halaman reset password akun pengguna terdapat field username yang harus diisi dan klik tombol “Reset Password”. Jika pengguna membatalkan proses reset password dapat dilakukan dengan klik tombol “Cancel”. Halaman reset password dapat dilihat pada Gambar 3.
 
 <p align="center">
-  <img src="assets/images/resetPassword.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/resetPassword.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 3. Halaman Reset Password
 </p>
 
@@ -73,17 +73,17 @@ Pada halaman login terdapat teks “Forgot your password” digunakan untuk mela
 Aplikasi OrangeHRM terdapat modul/fitur dashboard yang diakses admin dengan melakukan login terlebih dahulu pada halaman login. Dashboard menampilkan widget sebagai ringkasan informasi seputar fitur dari aplikasi berupa grafik. Widget di dashboard terdiri dari Time at Work, My Actions, Quick Lunch, Buzz Latest Posts, Employees on Leave Today, Employee Distribution by Sub Unit dan Employee Distribution by Location. Halaman dashboard dapat dilihat pada Gambar 4 hingga Gambar 6.
 
 <p align="center">
-  <img src="assets/images/dashboard.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/dashboard.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 4. Halaman Dashboard
 </p>
 
 <p align="center">
-  <img src="assets/images/widget.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/widget.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 5. Halaman Dashboard – Employees on Leave Today dan Distribution by Sub Unit
 </p>
 
 <p align="center">
-  <img src="assets/images/widget1.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/widget1.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 6. Halaman Dashboard – Employee Distribution by Location
 </p>
 
@@ -103,42 +103,42 @@ Modul My Info - Personal Details merupakan modul yang digunakan untuk menampilka
 Pada bagian personal details terdapat field yang berisi informasi pengguna terdiri dari Employee Full Name, Employee Id, Other Id, Driver's License Number, License Expiry Date, Nationality, Marital Status, Date of Birth dan Gender, Setiap field dalam personal details dapat diubah sesuai dengan yang diinginkan pengguna dengan menuliskan perubahan pada field tersebut dan mengklik tombol “Save” untuk menyimpan perubahan datanya. Halaman personal details dapat dilihat pada Gambar 7.
 
 <p align="center">
-  <img src="assets/images/personalDetails.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/personalDetails.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 7. Halaman Personal Details
 </p>
 
 Pada bagian custom fields terdapat blood type digunakan untuk mencatat golongan darah karyawan/pengguna yang bertujuan untuk keperluan darurat medis. Pengguna dapat mengubah nilai dalam field blood type dan test_field sesuai yang diinginkan, kemudian klik tombol “Save” untuk menyimpan perubahan datanya. Halaman personal details bagian custom fields dapat dilihat pada Gambar 8.
 
 <p align="center">
-  <img src="assets/images/customField.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/customField.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 8. Halaman Personal Details – Custom Field 
 </p>
 
 Pada bagian attachments digunakan untuk mengunggah dan mneyimpan dokumen atau file penting yang terkait karyawan. Dalam attachments dapat melakukan add, edit, delete dan download dokumen. Halaman personal details bagian attachments dapat dilihat pada Gambar 9.
 
 <p align="center">
-  <img src="assets/images/attachments.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/attachments.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 9. Halaman Personal Details – Attachments 
 </p>
 
 Pada bagian attachment terdapat tombol add untuk menambahkan data dokumen dengan cara memilih file dan menuliskan komentar dokumen. Dokumen/file yang diunggah memiliki ketentuan ukuran maksimal 1 Mbs. Selanjutnya, klik tombol “Save” untuk menambahkan data attachment. Halaman add attachment dapat dilihat pada Gambar 10.
 
 <p align="center">
-  <img src="assets/images/addAttach.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/addAttach.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 10. Halaman Attachments – Add Attachment
 </p>
 
 Pada bagian attachment terdapat tombol edit untuk mengubah data dokumen dengan cara memilih salah satu data dan klik tombol edit. Pada halaman edit attachment terdapat field current file, replace with dan comment. Pada field replace with memiliki ketentuan file maksimal 1 Mbs. Selanjutnya, klik tombol “Save” untuk mengubah data attachment. Halaman edit attachment dapat dilihat pada Gambar 11.
 
 <p align="center">
-  <img src="assets/images/editAttach.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/editAttach.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 11. Halaman Attachments – Edit Attachment 
 </p>
 
 Pada bagian attachment terdapat tombol delete untuk menghapus data dokumen dengan cara memilih salah satu data dan klik tombol delete. Kemudian, sistem menampilkan pop-up konfirmasi hapus data. Jika pengguna ingin menghapus data, maka klik tombol “Yes, Delete” dan jika ingin membatalkan dilakukan dengan klik tombol “No, Cancel”. Halaman delete attachment dapat dilihat pada Gambar 12.
 
 <p align="center">
-  <img src="assets/images/deleteAttach.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/deleteAttach.png" style="display: block; margin: auto;" width="500"/><br>
   Gambar 12. Halaman Attachments – Delete Attachment 
 </p>
 
