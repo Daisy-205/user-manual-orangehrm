@@ -1,11 +1,12 @@
-# <center> USER MANUAL - APLIKASI ORANGEHRM </center>
+# <p align="center"> USER MANUAL - APLIKASI ORANGEHRM </p>
 
 
-<p align="center"><img src="assets/images/orangeHRM.png"></p>
+<p align="center"><img src="assets/images/orangeHRM.png"><br>
+Versi: 1.0.0 <br>
+Tanggal Rilis: 16 Juli 2025<br>
+Penulis: Rohmatul Jannah 
+</p>
 
-<center> Versi: 1.0.0 </center><br>
-<center> Tanggal Rilis: 16 Juli 2025 </center><br>
-<center> Penulis: Rohmatul Jannah </center>
 
 
 ## 📑 Daftar Isi
