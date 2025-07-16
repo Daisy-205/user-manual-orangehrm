@@ -1,7 +1,7 @@
 # <center> USER MANUAL - APLIKASI ORANGEHRM </center>
 
 
-<p style="text-align: center"><img src="assets/images/orangeHRM.png">
+<p align="center"><img src="assets/images/orangeHRM.png"></p>
 
 <center> Versi: 1.0.0 </center><br>
 <center> Tanggal Rilis: 16 Juli 2025 </center><br>
