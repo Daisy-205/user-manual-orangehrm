@@ -52,7 +52,7 @@ Panduan penggunaan modul/fitur ini digunakan untuk admin dalam mengakses modul/f
 Aplikasi OrangeHRM terdapat modul/fitur login untuk masuk kedalam sistem atau aplikasi. Untuk login, pengguna dapat mengakses URL aplikasi (https://opensource-demo.orangehrmlive.com/), kemudian mengisi username dan password. Terakhir, klik tombol “Login”. Jika login berhasil akan diarahkan ke halaman dashboard sesuai akun pengguna dan jika login gagal diminta untuk memasukkan data login kembali serta ditampilkan pesan kesalahan berupa “Invalid Credential”. Halaman login dapat dilihat pada Gambar 1 dan ketika gagal login dapat dilihat pada Gambar 2.
 
 <p align="center">
-  <img src="assets/images/login.png" style="display: block; margin: auto;" width="500"/>
+  <img src="assets/images/login.png" style="display: block; margin: auto;" width="500"/> <br>
   Gambar 1. Halaman Login
 </p>
 
