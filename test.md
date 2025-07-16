@@ -3,8 +3,8 @@
 
 <p style="text-align: center"><img src="assets/images/orangeHRM.png">
 
-<center> Versi: 1.0.0 </center>
-<center> Tanggal Rilis: 16 Juli 2025 </center>
+<center> Versi: 1.0.0 </center><br>
+<center> Tanggal Rilis: 16 Juli 2025 </center><br>
 <center> Penulis: Rohmatul Jannah </center>
 
 
